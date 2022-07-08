@@ -1,4 +1,4 @@
-package com.david.admin;
+package com.david;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
